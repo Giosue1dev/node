@@ -1,4 +1,4 @@
-## README - Project NODEJS - S2I
+## README - Project NODEJS 
 ### Installation
 
 To install and run the project locally, follow the steps below:
